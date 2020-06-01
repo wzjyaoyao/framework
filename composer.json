@@ -1,0 +1,16 @@
+{
+    "name": "wzjyaoyao/framework",
+    "description": "this is my framework",
+    "keywords": ["framework", "self"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": "^7.1.3"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
