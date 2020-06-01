@@ -9,7 +9,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Hoowu\\": "library/"
+            "Hoowu\\Library\\": "library/"
         }
     },
     "repositories": {
